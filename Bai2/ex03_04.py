@@ -7,6 +7,8 @@ def truycapphantu(tuple_data):
 input_list = input("Nhap danh sach so: ")
 numbers = list(map(int , input_list.split(' ')))
 
+
+
 first , last = truycapphantu(numbers)
 
 #in ket qua
